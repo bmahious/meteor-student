@@ -70,7 +70,7 @@ ul {
   border: none;
   position: relative;
   background-color: red;
-  border-radius: 3px;
+  border-radius: 5px;
 }
  
 li {
@@ -172,4 +172,12 @@ header .hide-completed {
   color: red;
   margin-top: 5%;
   /* display: none; */
+}
+.update{
+  background-image: url("./img/icon.png");
+  background-color: #32C741;
+  width: 25px;
+  border: none;
+  border-radius: 5px;
+  outline: none;
 }

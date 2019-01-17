@@ -55,7 +55,7 @@ export default class Task extends Component {
                         <td className="td-delete-update">
                           <div className="delete-update">
                               <button className="update" onClick={this.toggleChecked.bind(this)}>
-                                &times;
+                               
                               </button>
                               <button className="delete" onClick={this.deleteThisTask.bind(this)}>
                               &times;
